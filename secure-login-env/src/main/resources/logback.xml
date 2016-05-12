@@ -46,7 +46,7 @@
 
 	<!-- Application Loggers -->
 	<logger name="org.terasoluna.securelogin">
-		<level value="debug" />
+		<level value="trace" />
 	</logger>
 
 	<!-- TERASOLUNA -->
